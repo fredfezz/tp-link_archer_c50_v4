@@ -2,7 +2,7 @@
 
 | Feature | Package | Supported |
 | ------- | ------- | --------- |
-| Current version | - | #22.03.5# |
+| Current version | - | **22.03.5** |
 | AP on 2.4GHz band | - |✅|
 | AP on 5GHz band | - |✅|
 | DIY Mesh| wpad-mesh-openssl |✅|
